@@ -1,6 +1,0 @@
-{
-    "rust-analyzer.cargo.unsetTest": [
-        "core",
-        "ed25519-dalek"
-    ]
-}
